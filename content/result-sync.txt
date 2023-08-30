@@ -1,0 +1,1 @@
+Here is the result:hello this is first text file ,Hello this is second text Here is the result:utf8,Hello this is second text 
